@@ -1,0 +1,15 @@
+/Users/nicho/Desktop/Projects/GIT/patternprogram/bin/Debug/net5.0/patternprogram.deps.json
+/Users/nicho/Desktop/Projects/GIT/patternprogram/bin/Debug/net5.0/patternprogram.runtimeconfig.json
+/Users/nicho/Desktop/Projects/GIT/patternprogram/bin/Debug/net5.0/patternprogram.runtimeconfig.dev.json
+/Users/nicho/Desktop/Projects/GIT/patternprogram/bin/Debug/net5.0/patternprogram.dll
+/Users/nicho/Desktop/Projects/GIT/patternprogram/bin/Debug/net5.0/ref/patternprogram.dll
+/Users/nicho/Desktop/Projects/GIT/patternprogram/bin/Debug/net5.0/patternprogram.pdb
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.csprojAssemblyReference.cache
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.AssemblyInfoInputs.cache
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.AssemblyInfo.cs
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.csproj.CoreCompileInputs.cache
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.dll
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/ref/patternprogram.dll
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.pdb
+/Users/nicho/Desktop/Projects/GIT/patternprogram/obj/Debug/net5.0/patternprogram.genruntimeconfig.cache
